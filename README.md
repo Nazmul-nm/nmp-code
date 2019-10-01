@@ -1,5 +1,5 @@
 # nmp-code
-npx create-react-app my-app //my-app folder name
+npx create-react-app my-app <br/>//my-app folder name
 npm install --save react-router-dom //router dom
 npm install --save formik //form validation
 npm install --save yup
